@@ -1,0 +1,101 @@
+Privacy Policy for Mobile Hisaab
+Effective Date: 12 Jun 2025
+1. Introduction
+Mobile Hisaab ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+2. Information We Collect
+2.1 Personal Information You Provide:
+Business information (shop name, address, contact details)
+Customer and supplier contact information
+Product and inventory data
+Financial transaction records
+Staff information
+2.2 Information Collected Automatically:
+Device information (model, operating system version)
+App usage analytics
+Crash reports and performance data
+3. Permissions and Their Usage
+3.1 Camera Permission (android.permission.CAMERA)
+Purpose: To scan barcodes for product identification and inventory management
+Usage: Only activated when you manually choose to scan barcodes
+Storage: Photos/scans are processed locally and not stored permanently
+Third-party access: We do not share camera data with any third parties
+3.2 Other Permissions:
+Storage: To save bills, reports, and backup data locally
+Contacts: To import customer information with your consent
+SMS: To send payment reminders to customers
+Network: To sync data and access online features
+4. How We Use Your Information
+Provide core business management features
+Generate bills, invoices, and reports
+Send payment reminders via SMS/WhatsApp
+Improve app functionality and user experience
+Provide customer support
+Ensure data security and prevent fraud
+5. Data Storage and Security
+5.1 Local Storage:
+Most data is stored locally on your device
+You have full control over your business data
+Local encryption protects sensitive information
+5.2 Cloud Storage (Optional):
+Backup services require explicit user consent
+Data is encrypted during transmission and storage
+You can disable cloud sync at any time
+6. Data Sharing
+We DO NOT:
+Sell your personal or business data
+Share customer information with third parties
+Access your data without permission
+Use your information for advertising
+We MAY share data only when:
+Required by law or legal process
+Necessary to protect our rights or safety
+You provide explicit consent
+7. Third-Party Services
+Our app may integrate with:
+WhatsApp Business API (for sending messages)
+SMS services (for notifications)
+Cloud storage providers (for backups)
+These services have their own privacy policies and terms.
+8. Your Rights and Choices
+You have the right to:
+Access your personal data
+Correct inaccurate information
+Delete your data
+Export your data
+Disable specific permissions
+Opt-out of data collection
+9. Data Retention
+Business data is retained as long as you use the app
+You can delete data at any time through app settings
+Uninstalling the app removes all local data
+Cloud backups are deleted upon account closure
+10. Children's Privacy
+Mobile Hisaab is intended for business use and not designed for children under 13. We do not knowingly collect information from children.
+11. International Data Transfers
+If you use cloud features, your data may be transferred to servers in different countries. We ensure appropriate safeguards are in place.
+12. Changes to Privacy Policy
+We may update this policy periodically. Significant changes will be notified through the app. Continued use constitutes acceptance of changes.
+13. Contact Information
+For privacy-related questions or concerns:
+Email: [your-email@domain.com]
+Address: [Your Business Address]
+Phone: [Your Contact Number]
+14. Compliance
+This privacy policy complies with:
+Google Play Store policies
+Indian Information Technology Act, 2000
+General Data Protection Regulation (GDPR) where applicable
+15. Consent
+By using Mobile Hisaab, you consent to this Privacy Policy and our data practices as described herein.
+Last Updated: [Date]
+Quick Implementation Steps:
+Host this policy on a website (GitHub Pages, your business website, or a free hosting service)
+Add the URL to your Google Play Console under "Privacy Policy"
+Include in app - Add a "Privacy Policy" link in your app settings
+Update app description to mention privacy compliance
+Additional Recommendations:
+Terms of Service - Create accompanying terms of service
+In-app consent - Add permission explanation dialogs
+Settings page - Include privacy controls in app settings
+Regular updates - Review and update policy as needed
+Would you like me to help you create a simpler version, translate it to other languages, or help with the technical implementation?
